@@ -1,0 +1,40 @@
+body {
+    background-color: #123456;
+    width: 100%;
+    height: 100vh;
+    margin: 0px;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+input {
+    border:0.5px solid white;
+    border-radius:10px
+}
+
+.button {
+    border: #123456;
+    border-radius: 10px;
+    background-color: transparent;
+    margin-left:10px;
+    color: white;
+}
+
+.iframe {
+    width: 98%;
+    height: 70%;
+    margin: auto;
+}
+
+
+.show {
+    background-color: rgb(135, 255, 135);
+    border: 1px solid blue;
+    border-radius: 7px;
+    color: blue;
+}
